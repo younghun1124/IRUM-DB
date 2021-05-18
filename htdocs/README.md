@@ -1,2 +1,0 @@
-# IRUM-DB
-IRUMINFRA WebDB
